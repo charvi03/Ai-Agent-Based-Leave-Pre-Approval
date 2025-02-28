@@ -1,0 +1,22 @@
+Employee ID,Predicted Score,Leave Type,Decision
+804429,90,Half-Day,Approved
+723251,91,Full-Day,Approved
+714728,92,Full-Day,Approved
+697766,90,Half-Day,Approved
+671971,91,Full-Day,Approved
+593384,90,Half-Day,Approved
+524337,90,Half-Day,Approved
+498826,90,Half-Day,Approved
+618343,91,Full-Day,Approved
+370324,90,Half-Day,Approved
+123842,90,Half-Day,Approved
+331340,90,Half-Day,Rejected
+514372,90,Half-Day,Rejected
+636804,90,Half-Day,Rejected
+823866,90,Half-Day,Rejected
+401976,90,Half-Day,Rejected
+791075,90,Half-Day,Rejected
+57467,92,Full-Day,Rejected
+291979,90,Half-Day,Rejected
+775628,90,Half-Day,Rejected
+374765,91,Full-Day,Rejected
